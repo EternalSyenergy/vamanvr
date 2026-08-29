@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: b116ac2cc8e0e0847a256991d19c2865
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue painted metal
+    second: {fileID: 2100000, guid: 50fc06a9d7dbeec48bde4cfb69fd47a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Wall
+    second: {fileID: 2100000, guid: 26912130a4849ca45a1db997b89a9672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Scratched Blue
+    second: {fileID: 2100000, guid: 90598cd753b82e54ebb2a30957ebb1ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: 1b0ab48e1d4eacc469ac3ee9e3d791c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.002
+    second: {fileID: 2100000, guid: 4c2a86c2817df7a4aa1a4c40988878cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.003
+    second: {fileID: 2100000, guid: de769e7f1ddd12a4aa4ee0718a9fbf37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_St
+    second: {fileID: 2100000, guid: d2d9691bd544d86449e0485109204020, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red plaster stucco wall
+    second: {fileID: 2100000, guid: a9df273de6333674caac5e00590561de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rusty Steel Cable
+    second: {fileID: 2100000, guid: b8d4e52cc26841f43b4f2e076e9cea93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scratched metal
+    second: {fileID: 2100000, guid: 3bb86ec300d92b04dbfda5e28237e50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soil Ground
+    second: {fileID: 2100000, guid: 1ff8f5c2756d0d145a92998328a8c7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_bridge
+    second: {fileID: 2100000, guid: 3d8780865e36c7745a99a1749cd80973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_cabin
+    second: {fileID: 2100000, guid: d848352940303674595dce442fca3b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_cable
+    second: {fileID: 2100000, guid: def2ddd01d1de1d4480cd290bbd81fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_hook
+    second: {fileID: 2100000, guid: 5dd964a738b630c4b988ae1b6e105a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_motor
+    second: {fileID: 2100000, guid: 6323675a6962459488c25c2e921cd8b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crane_rail
+    second: {fileID: 2100000, guid: d11e240a46c95704d868a1da1fe667d1, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0f4febd93b6f4c0a9a89fb57d3402681_R_crane_bridge_Metallic-crane_bridge_Roughness@channels=G
+    second: {fileID: 2800000, guid: 0507c0c4837e60a4a9b3191f4d404c22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1e3b268450b5484f91cf46e6bffd4a8b_RGB_crane-cabin_BaseColor
+    second: {fileID: 2800000, guid: 7265b7a18cb573045afa8acf09673c88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2620adda34a14434bbce00460945768b_R_crane-cabin_Metallic_png-crane-cabin_Roughness_png@channels=
+    second: {fileID: 2800000, guid: 2496aae6b3dea2842bc973043671498d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 37fc48d7ccf547ccb40308d080003ce5_R_crane_hook_Metallic-crane_hook_Roughness@channels=G
+    second: {fileID: 2800000, guid: 5ce61baf7a206094fa516d4b3a28e606, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3a0f6a2390ea418e980fef91084ee9ce_RGB_crane_cable_mount_BaseColor
+    second: {fileID: 2800000, guid: f2edab612e8cebe4a80c2ee786bcc77a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3f663245c75d47d3b42a81b92391f7be_RGB_crane_hook_BaseColor
+    second: {fileID: 2800000, guid: 048f6a842dc6606468a261715367665f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4f3d40fd3d364c3691f09956fad4f76e_R_crane_trolley_Metallic-crane_trolley_Roughness@channels=G
+    second: {fileID: 2800000, guid: 6c5d239d93b9e8146a26214520826fe5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 50df00ff01cc436d873931e0bf274e97_N_2_nmap.tga
+    second: {fileID: 2800000, guid: 966407636a87905479c02dcf9838d2e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5f82f2af1354422b9dbea08f2a6b5457_RGB_crane_rail_BaseColor
+    second: {fileID: 2800000, guid: 6ff48c7b7cb1b824aa7fd5dfcce3485c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 63fb141776c949968ef0d656ca2acba9_RGB_2_color.tga
+    second: {fileID: 2800000, guid: 1625cb81064ae6e4cbcd588ecd698ec5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7708703f44d148af92c34ac9a8ef6abd_N_crane_hook_Normal
+    second: {fileID: 2800000, guid: 55c7457b4e3457045bf03394ab822dad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 857b38e11d28413ca9e90ebec2c090ab_N_crane_bridge_Normal
+    second: {fileID: 2800000, guid: 8d78cf0dd579ab4469a7fee7fb9ae2b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9610d59e672e4924a694011e87945a6b_N_crane_trolley_Normal
+    second: {fileID: 2800000, guid: 9c9345c5b15e88f4ab7764b288d8b21e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9c125a93034a430cbb36660f66a6d0eb_R_crane_rail_Metallic-crane_rail_Roughness@channels=G
+    second: {fileID: 2800000, guid: f1861b6a5a874c648aa01bbe7e5076c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metall1_metallic
+    second: {fileID: 2800000, guid: 5252114a28a0c4a48a55d3e4fbd19ac9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metall1_normal
+    second: {fileID: 2800000, guid: e96f1925eb321e24dbbaaf21f2ac64da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PX_Soil_Ground_19_albedo
+    second: {fileID: 2800000, guid: 2084adbf064318a438afd38f1f407627, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PX_Soil_Ground_19_normal
+    second: {fileID: 2800000, guid: 0d9f2c86c6ae3014a90ceba3c4024905, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PX_Soil_Ground_19_roughness
+    second: {fileID: 2800000, guid: c84b335c203b11e4caeb39342e6a0947, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: b989cf381b864ebdbce89a25405b7696_N_crane_rail_Normal
+    second: {fileID: 2800000, guid: 01fc56df3d4dc1e458c90002e1dcca60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c1cdb94232f84d7b97c4ee8beca9cddb_RGB_crane_trolley_BaseColor
+    second: {fileID: 2800000, guid: 75e4233dd3316f348b0c2999ed706ea4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: d0a071c6eb2a49babd558b79c7aeb2eb_N_crane-cabin_Normal
+    second: {fileID: 2800000, guid: 289cbe5c3b3202c4eb31b84857110f82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e75fbdaab5194f14b4162d724e5fbea7_RGB_crane_bridge_BaseColor
+    second: {fileID: 2800000, guid: 3d468ebbb9c94444eb77720997d415b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: f0b5144aca8049ab9ff77bf7626e156f_N_crane_cable_mount_Normal
+    second: {fileID: 2800000, guid: 996e66b936ea36c45a3e685faf5ba9ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal-smudge-smoothness-0
+    second: {fileID: 2800000, guid: 9f53f7e969622004c99088b3cb8844a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_diffuse
+    second: {fileID: 2800000, guid: a996cc4892fce3f43ae52f8628daf272, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_metallic
+    second: {fileID: 2800000, guid: 5ac73e8e2e3c5d54ea90e1ade465d0e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_normal_opengl
+    second: {fileID: 2800000, guid: 98fd8e630667fe242a9ece671ae6d652, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal06_diffuse
+    second: {fileID: 2800000, guid: c293c4445ca59494a9b89f07bd0eb6cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_metallic
+    second: {fileID: 2800000, guid: 0ee2ed5a50e8c1c4485e09265276d3ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_normal_opengl
+    second: {fileID: 2800000, guid: 52707fb2aacaa394cbaae14750ad6637, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty_Steel_Cable_Roughness
+    second: {fileID: 2800000, guid: 2730bbb668e90384fb2e284b67467f6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stucco04_diffuse
+    second: {fileID: 2800000, guid: a68a9d0102a3671458ecaad71897e4a1, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
