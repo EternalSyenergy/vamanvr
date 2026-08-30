@@ -3,7 +3,117 @@ guid: 5cff83ff393ffc64a976aa13cb656190
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Intensely Wrinkled Paper Texture
+    second: {fileID: 2100000, guid: 9bdcb01640a4cde498170b6e657bc677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte White Metal
+    second: {fileID: 2100000, guid: 09369f837e2ccdc4b8f26b165f6c9011, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_St
+    second: {fileID: 2100000, guid: 406245dc143f918499f4c13668d2fd42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_St.001
+    second: {fileID: 2100000, guid: dfae72143cc9a174f812b2ea23fea713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_St.002
+    second: {fileID: 2100000, guid: 160f4ffad987d964fb82fe52ce84c940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rusted metal
+    second: {fileID: 2100000, guid: bb4861a84ce788f4d89171cb05ab58ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rusted metal.001
+    second: {fileID: 2100000, guid: acf7ad1bb0472844e94e4f7f529dfc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_green
+    second: {fileID: 2100000, guid: 7003a53d235daaf48a8607dc3ee05d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_green.001
+    second: {fileID: 2100000, guid: b0c39b90e41639b49b47461de276b862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_green.002
+    second: {fileID: 2100000, guid: 40158f9623870ff46b5b693ca0244a4a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 17e8189de3b14893b48451e94f7735ac_N_pipes_Normal_OpenGL
+    second: {fileID: 2800000, guid: d9f6ca8f9ab81324aad2007a9cfb450c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2e29d7a815dc4147b66358b20e4fd085_RGB_pipes_green_Diffuse
+    second: {fileID: 2800000, guid: 38154f863eee93c4d85b092c1b8a8e56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 50df00ff01cc436d873931e0bf274e97_N_2_nmap.tga
+    second: {fileID: 2800000, guid: 9a143bafbfd9c3848a88744d7b91e6fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 63fb141776c949968ef0d656ca2acba9_RGB_2_color.tga
+    second: {fileID: 2800000, guid: 26cc1a8175b94c948a99c0612784dee8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_Color
+    second: {fileID: 2800000, guid: 9da409f42d5cda34298de437231207ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_Metalness
+    second: {fileID: 2800000, guid: 5765f30c892400b4a8a8dc2adc8388b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 800fb264bb74aa949921669022473261, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_Roughness
+    second: {fileID: 2800000, guid: fa30ff5b551e99e4eacb38e70dcc9bc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roughness
+    second: {fileID: 2800000, guid: 4dba0195a49d63b419b1118c9ef2da5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty05_diffuse
+    second: {fileID: 2800000, guid: c17a68de71781e948960b866721b1c52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty05_metallic
+    second: {fileID: 2800000, guid: 5917575a35f89134d83bcd339e8c87d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty05_normal_opengl
+    second: {fileID: 2800000, guid: 22e36de67d449a24e956d6e372643d7a, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

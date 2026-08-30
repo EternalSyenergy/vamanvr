@@ -3,7 +3,27 @@ guid: e92cf624d88af494dbd01da8f3d1a7ab
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brushed used metal silver
+    second: {fileID: 2100000, guid: a7dc50aa1e0bfdb4a8d40861fcac9f4b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_diffuse
+    second: {fileID: 2800000, guid: f67be049f09fb5e419e23a4408ea933c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_metallic
+    second: {fileID: 2800000, guid: 6973bc4abb5e2764392ba32cf0167d01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_normal_opengl
+    second: {fileID: 2800000, guid: e9698589ffdc3164eb7116d078365178, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

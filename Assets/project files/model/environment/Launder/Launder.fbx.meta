@@ -3,7 +3,47 @@ guid: 931245641d6868d4d88081c568556a58
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte White Metal
+    second: {fileID: 2100000, guid: f4e0588ea3c4f0a4d8e81efca3aad554, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_St.003
+    second: {fileID: 2100000, guid: 823d6fddefa7a154fa93795d110132d1, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 50df00ff01cc436d873931e0bf274e97_N_2_nmap.tga
+    second: {fileID: 2800000, guid: d5ba0b0bf05e7274899e0d3d39dd7a1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 63fb141776c949968ef0d656ca2acba9_RGB_2_color.tga
+    second: {fileID: 2800000, guid: 8f2bd614daafa1e41be1194664908645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_Color
+    second: {fileID: 2800000, guid: d9be1919f6e622f4089b7fb7def150ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_Metalness
+    second: {fileID: 2800000, guid: 16ced66ccdacfda4cb3a12a7701a1712, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_NormalGL
+    second: {fileID: 2800000, guid: 9ab805b50415e144b9bc82e7f7a4ac79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal044B_4K-JPG_Roughness
+    second: {fileID: 2800000, guid: b8fa7f9b9970c5f44928c1b28d2fe6d8, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

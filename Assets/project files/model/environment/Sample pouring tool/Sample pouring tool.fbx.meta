@@ -3,7 +3,27 @@ guid: 3a6a74ac4c6ce25499f866311a7ea35c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rusty black metal
+    second: {fileID: 2100000, guid: e2036386840c3f240a69253aa88166e8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty_metal_diffuse
+    second: {fileID: 2800000, guid: e15a86f866710284fb6883743674a50b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty_metal_metallic
+    second: {fileID: 2800000, guid: 88f2d6f5a54b7c640a033613f0811a49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rusty_metal_normal_opengl
+    second: {fileID: 2800000, guid: d3ee907c00f177a44b23c089e021990d, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

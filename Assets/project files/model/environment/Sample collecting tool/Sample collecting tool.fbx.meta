@@ -3,7 +3,57 @@ guid: 025c6db6cef72754ea144c7057ad24c3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old metal
+    second: {fileID: 2100000, guid: dabce27868bd24948997c1c3de88c80f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rusty metal.001
+    second: {fileID: 2100000, guid: 68ea974e5a4b03347aa64e5d35b1973c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal05_diffuse
+    second: {fileID: 2800000, guid: 761349a00323986429cdd6d19b674bf4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal05_metalness
+    second: {fileID: 2800000, guid: 455bec3a114531a459bdfe27c403cfce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal05_normal_opengl
+    second: {fileID: 2800000, guid: e7c60f24e4ab6e8468cb72282b10a059, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal05_roughness
+    second: {fileID: 2800000, guid: 2c7fa054e8ba09d46baf1538897309f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal10_diffuse
+    second: {fileID: 2800000, guid: a1a5ee4790088934a9c17de82f741b29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal10_metalness
+    second: {fileID: 2800000, guid: 702e59200c4c2fe488b06f77f7f3d60d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal10_normal_opengl
+    second: {fileID: 2800000, guid: d5b3d223dea0a2447a031f3b0fad9e68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal10_roughness
+    second: {fileID: 2800000, guid: 539c53ca2b8c47046bb0ad9ed0844b0d, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
